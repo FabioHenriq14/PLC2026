@@ -1,6 +1,13 @@
-TPC 1
+# TPC 1
 
-Fábio Henrique Alves dos Santos
-A109300
-<img src="..\pfp.jpeg" width="500">
+**Nome:** Fábio Henrique Alves dos Santos  
+**Número de Aluno:** A109300  
+
+<img src="./pfp.jpeg" width="250">
+
+---
+
+## Expressão Regular
+
+Expressão regular para identificar strings binárias que não contenham a substring `"011"`:
 
