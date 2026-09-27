@@ -3,7 +3,7 @@
 **Nome:** Fábio Henrique Alves dos Santos  
 **Número de Aluno:** A109300  
 
-<img src="./pfp.jpeg" width="250">
+<img src="..\pfp.jpeg" width="250">
 
 ---
 
