@@ -11,3 +11,4 @@
 
 Expressão regular para identificar strings binárias que não contenham a substring `"011"`:
 
+^1*0*(0|10)*1?$
